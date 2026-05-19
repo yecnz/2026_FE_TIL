@@ -7,7 +7,7 @@
 ### 2. 핵심 정리 (내 언어로)
 - API(Application Programming Interface)<br>
 : 클라이언트(요청)가 서버(응답)에게 데이터를 요청할 때 지켜야 하는 메뉴얼. 어떤 방식으로 요청하면 어떤 데이터를 줌.<br>
-: Base URL(모든 요청에 공통으로 들어가는 주소)와 Endpoint(가져오고 싶은 구체적 경로)로 구성 됨.
+: Base URL(모든 요청에 공통으로 들어가는 주소)과 Endpoint(가져오고 싶은 구체적 경로)로 구성 됨.
 - React에서 API 호출하기<br>
 자동으로 가져와야 할 떈?<br>
 -> useEffect 내부에서 호출<br>
