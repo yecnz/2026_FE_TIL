@@ -65,9 +65,8 @@
 
 
 ## 3. 실습 / 과제 / 결과물
-
-<img src="./image/5회차/todo1.png" alt="Todo-list 실습과제 1",width="30%"> 
-<img src="./image/5회차/todo2.png" alt="Todo-list 실습과제 2",width="30%"> 
+![실습과제3](./image/5회차/todo1.png)
+![실습과제3](./image/5회차/todo2.png)
 
 
 
